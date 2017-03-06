@@ -7,3 +7,5 @@ D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\ob
 D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.csproj.GenerateResource.Cache
 D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.exe
 D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.pdb
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.Osoby.resources
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.Teksty.resources
