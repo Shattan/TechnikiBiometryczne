@@ -1,0 +1,9 @@
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\bin\Debug\TechnikiBiometryczne.exe.config
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\bin\Debug\TechnikiBiometryczne.exe
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\bin\Debug\TechnikiBiometryczne.pdb
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.csprojResolveAssemblyReference.cache
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.EkranGlowny.resources
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.Properties.Resources.resources
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.csproj.GenerateResource.Cache
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.exe
+D:\Repozytoria\TechnikiBiometryczne\TechnikiBiometryczne\TechnikiBiometryczne\obj\Debug\TechnikiBiometryczne.pdb
